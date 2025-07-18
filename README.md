@@ -135,7 +135,7 @@ This file contains:
 
 ### 🕹 Gameplay Preview
 
-![Gameplay Screenshot](9f496457-8b96-4995-b802-414182fd58a3.png)
+![Gameplay Screenshot](flappybird.png)
 
 ---
 
