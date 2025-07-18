@@ -4,24 +4,6 @@ A fully playable desktop clone of the classic **Flappy Bird** game developed usi
 
 ---
 
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [How to Play](#how-to-play)
-- [Code Overview](#code-overview)
-- [Assets Used](#assets-used)
-- [Known Issues](#known-issues)
-- [Future Enhancements](#future-enhancements)
-- [Screenshots](#screenshots)
-- [License](#license)
-- [Author](#author)
-
----
-
 ## 📖 Introduction
 
 This project is a clone of the popular **Flappy Bird** game, implemented using Java. The game involves a bird flying through a series of pipes without hitting them. It demonstrates object-oriented programming, GUI design, graphics rendering, and event-driven game control in Java.
