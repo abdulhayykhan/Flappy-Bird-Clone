@@ -129,12 +129,9 @@ This file contains:
 
 ---
 
-## 📸 Screenshots
-
-### 🕹 Gameplay Preview
+## 🕹 Gameplay Preview
 
 <img src="gamepreview.gif" width="250" height="400"/>
-![Gameplay Preview](gamepreview.gif)
 
 ---
 
