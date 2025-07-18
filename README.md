@@ -151,7 +151,7 @@ You are free to use, distribute, and modify the code with appropriate attributio
 
 GitHub: [@abdulhayykhan](https://github.com/abdulhayykhan)
 
-Linkeidn: [@abdul-hayy-khan](https://lihnkedin.com/in/abdul-hayy-khan)
+Linkeidn: [@abdul-hayy-khan](https://linkedin.com/in/abdul-hayy-khan)
 
 
 > Made with ❤️ by Abdul Hayy Khan in Java after a lot of trial & error!
