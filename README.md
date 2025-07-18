@@ -53,20 +53,17 @@ This project is a clone of the popular **Flappy Bird** game, implemented using J
 ### 📥 Steps to Run
 
 1. **Clone or download** this repository:
-
 ```
 git clone https://github.com/abdulhayykhan/Flappy-Bird-Clone.git
 cd Flappy-Bird-Clone
 ```
 
 2. **Open VS Code:**
-
 Go to File → Open Folder and open the ```Flappy-Bird-Clone``` directory.
 
 3. **Compile and Run:**
 
 If using terminal inside VS Code:
-
 ```
 javac Flappybird.java
 java Flappybird
