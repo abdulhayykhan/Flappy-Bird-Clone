@@ -32,12 +32,12 @@ This project is a clone of the popular **Flappy Bird** game, implemented using J
 
 ## 📁 Repository Structure
 - Flappy-Bird-Clone/
-- ├── Flappybird.java   # Main game file with all logic and rendering
-- ├── flappybird.png    # Bird sprite
-- ├── flappybirdbg.png  # Game background
-- ├── toppipe.png       # Top pipe image
-- ├── bottompipe.png    # Bottom pipe image
-- ├── README.md         # Complete project documentation
+- ├── Flappybird.java   (Main game file with all logic and rendering)
+- ├── flappybird.png    (Bird sprite)
+- ├── flappybirdbg.png  (Game background)
+- ├── toppipe.png       (Top pipe image)
+- ├── bottompipe.png    (Bottom pipe image)
+- ├── README.md         (Complete project documentation)
 
 ---
 
