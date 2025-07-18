@@ -133,7 +133,7 @@ This file contains:
 
 ### 🕹 Gameplay Preview
 
-![Gameplay Screenshot](flappybird.png)
+![Gameplay Preview](Game Preview.gif)
 
 ---
 
