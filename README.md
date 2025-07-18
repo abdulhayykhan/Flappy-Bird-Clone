@@ -59,6 +59,7 @@ cd Flappy-Bird-Clone
 ```
 
 2. **Open VS Code:**
+   
 Go to File → Open Folder and open the ```Flappy-Bird-Clone``` directory.
 
 3. **Compile and Run:**
