@@ -133,7 +133,7 @@ This file contains:
 
 ### 🕹 Gameplay Preview
 
-![Gameplay Preview](Game Preview.gif)
+![Gameplay Preview](gamepreview.gif)
 
 ---
 
