@@ -169,5 +169,7 @@ You are free to use, distribute, and modify the code with appropriate attributio
 
 **Abdul Hayy Khan**  
 GitHub: [@abdulhayykhan](https://github.com/abdulhayykhan)
+Linkeidn: [@abdul-hayy-khan](https://lihnkedin.com/in/abdul-hayy-khan)
+
 
 > 🛠 Built with Java after a lot of trial & error!
