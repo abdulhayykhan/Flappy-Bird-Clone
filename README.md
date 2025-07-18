@@ -49,13 +49,13 @@ This project is a clone of the popular **Flappy Bird** game, implemented using J
 ---
 
 ## 📁 Repository Structure
-Flappy-Bird-Clone/
-├── Flappybird.java # Main game file with all logic and rendering
-├── README.md # Complete project documentation
-├── flappybird.png # Bird sprite
-├── flappybirdbg.png # Game background
-├── toppipe.png # Top pipe image
-├── bottompipe.png # Bottom pipe image
+- Flappy-Bird-Clone/
+- ├── Flappybird.java # Main game file with all logic and rendering
+- ├── flappybird.png # Bird sprite
+- ├── flappybirdbg.png # Game background
+- ├── toppipe.png # Top pipe image
+- ├── bottompipe.png # Bottom pipe image
+- ├── README.md # Complete project documentation
 
 ---
 
@@ -168,8 +168,10 @@ You are free to use, distribute, and modify the code with appropriate attributio
 ## 👤 Author
 
 **Abdul Hayy Khan**  
+
 GitHub: [@abdulhayykhan](https://github.com/abdulhayykhan)
+
 Linkeidn: [@abdul-hayy-khan](https://lihnkedin.com/in/abdul-hayy-khan)
 
 
-> 🛠 Built with Java after a lot of trial & error!
+> Made with ❤️ by Abdul Hayy Khan in Java after a lot of trial & error!
